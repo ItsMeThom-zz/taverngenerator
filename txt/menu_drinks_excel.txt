@@ -1,0 +1,14 @@
+mug of larger
+tankard of ale
+stien of pilsner
+tankard of porter
+glass of stout
+glass of whiskey
+mug of cider
+goblet of wine
+glass of sherry
+bottle of rum
+glass of brandy
+glass of vodka
+tankard of mead
+

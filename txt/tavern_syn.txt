@@ -1,0 +1,8 @@
+inn
+lodge
+alehouse
+taproom
+pub
+tavern
+roadhouse
+hotel

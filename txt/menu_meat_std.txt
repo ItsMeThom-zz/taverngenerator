@@ -1,0 +1,15 @@
+chicken
+mutton
+beef
+lamb
+whitefish
+trout
+salmon
+pork
+crayfish
+sausage
+crab
+eel
+rabbit
+
+

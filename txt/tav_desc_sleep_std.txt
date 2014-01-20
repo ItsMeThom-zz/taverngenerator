@@ -1,0 +1,14 @@
+straw beds in a common room.
+goosedown beds in a common room.
+hammocks in a common room.
+small rooms with goosedown beds.
+small rooms with hammocks.
+small rooms with comfortable beds.
+standard sized single rooms with hammocks.
+standard sized single rooms with comfortable beds.
+standard sized single rooms with goosedown beds.
+double rooms with bunkbeds.
+double rooms with seperate beds.
+double roooms with one large bed.
+double rooms with hammocks.
+spacious single rooms with comfortable beds.

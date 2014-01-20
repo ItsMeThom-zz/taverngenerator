@@ -1,0 +1,11 @@
+straw mats by the hearth.
+woolen blankets by the hearth.
+floor space by the hearth.
+hammocks in a common room.
+floor space in a common room.
+straw mats in a common room.
+small rooms with straw mats.
+small rooms with straw beds.
+small rooms with crude beds and woolen blankets.
+crude bunkbeds in a common room.
+

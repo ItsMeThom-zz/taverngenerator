@@ -1,0 +1,23 @@
+The walls are adorned with trophies of local hunts.
+There are several crested shields and armours of the local noble decorating the walls.
+A huge painting depicting a glorious battle hangs behind the bar.
+The polished skull of some monstrous beast is mounted above the bar.
+A large and battered shield hangs behind the bar.
+The alcoves are curtained to allow privacy.
+The alcoves are behind sliding panel doors to allow privacy.
+The ceilings are unusually low.
+The walls are painted a dark colour.
+The walls bear the scratches and marks of weapons.
+The windows are small and allow little outside light in.
+The windows are barred on the inside.
+The windows are shuttered closed with a heavy bolt.
+The smell of wood smoke hangs in the air.
+The hearth radiates intense heat.
+The hearth is going out.
+The hearth is roaring nicely.
+The hearth is stacked but not lit.
+The bar is dark and lit only by flickering candles.
+The bar is lit by only the hearth.
+The bar is lit by candles on each table.
+
+

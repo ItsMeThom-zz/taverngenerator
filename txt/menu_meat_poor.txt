@@ -1,0 +1,10 @@
+chicken
+mutton
+beef
+lamb
+eel
+trout
+pork
+rabbit
+
+

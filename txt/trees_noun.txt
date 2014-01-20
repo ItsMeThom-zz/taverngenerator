@@ -1,0 +1,16 @@
+oak
+spruce
+pine
+birch
+alder
+ash
+hazel
+holly
+rowan
+willow
+yew
+cedar
+hawthorn
+poplar
+maple
+walnut

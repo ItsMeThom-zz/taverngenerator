@@ -1,0 +1,3 @@
+royal_noun.txt
+trees_noun.txt
+animal_noun.txt

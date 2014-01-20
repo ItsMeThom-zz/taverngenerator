@@ -1,0 +1,8 @@
+roasted
+fried
+grilled
+stewed
+smoked
+salted
+pickled
+baked

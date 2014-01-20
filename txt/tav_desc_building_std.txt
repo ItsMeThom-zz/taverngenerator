@@ -1,0 +1,6 @@
+wooden framed building.
+wooden plank walled building.
+rough stone walled building.
+log-walled building.
+smooth-stone walled building.
+stone brick building.
